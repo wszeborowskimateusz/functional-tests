@@ -1,0 +1,352 @@
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType0`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType1`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType2`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType3`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType4`3: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType5`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType6`4: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType7`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType8`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType9`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <>f__AnonymousType10`2: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for ThisAssembly: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.DateTimeExtensions: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.FeatureContext: type has no family visible contructors.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.HookAttribute: type has no family visible contructors.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.TestRunnerDefaultArguments: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.ProgrammingLanguage: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.ScenarioBlock: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.ScenarioContext: type has no family visible contructors.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.ScenarioExecutionStatus: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.ScenarioStepContext: type has no family visible contructors.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.StringExtensions: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.TableRow: type has no family visible contructors.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.VersionInfo: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.UnitTestProvider.UnitTestRuntimeProviderHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Tracing.CodeFormattingExtensions: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Tracing.LanguageHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Tracing.StepFormatter: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Tracing.TraceListenerHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Plugins.PluginType: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Plugins.RuntimePluginLocator: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Compatibility.CultureInfoHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Compatibility.EnumHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Compatibility.TypeHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Compatibility.ExceptionHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Compatibility.MonoHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Infrastructure.ContextManagerExtensions: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Infrastructure.StepDefinitionAmbiguityReason: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.ErrorHandling.ErrorProvider: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.CucumberMessages.ULongExtensions: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Configuration.ConfigDefaults: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Configuration.MissingOrPendingStepsOutcome: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Configuration.ObsoleteBehavior: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Configuration.ConfigSource: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.CommonModels.Result: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.CommonModels.Result`1: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.AsyncHelpers: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.ExpressionMemberAccessor: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.HookType: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.RegexFactory: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.StepDefinitionKeyword: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.StepDefinitionType: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.BindingTypeHelper: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Bindings.Reflection.BindingReflectionExtensions: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.BindingSkeletons.Keywords: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.BindingSkeletons.ParameterNameExtensions: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.BindingSkeletons.StepDefinitionSkeletonStyle: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.FindInSetExtensionMethods: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.FormattingTableDiffExceptionBuilder`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.TableHelpers: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.PivotTable: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.ProjectionExtensionMethods: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.PropertyExtensionMethods: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.RowExtensionMethods: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.SafetyTableDiffExceptionBuilder`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.SetComparisonExtensionMethods: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.SpecFlowDefaultValueRetrieverList: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.TableDiffExceptionBuilder`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.TableHelperExtensionMethods: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.TEHelpers: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.ValueHolder`1: type is a value type.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Assist.ValueHolder: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for TechTalk.SpecFlow.Analytics.AppInsights.AppInsightsInstrumentationKey: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>: type is sealed.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType0`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType1`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType2`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType3`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType4`3: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType5`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType6`4: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType7`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType8`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType9`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <>f__AnonymousType10`2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for ThisAssembly: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.DateTimeExtensions: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.ITestRunner: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.ProgrammingLanguage: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.ScenarioBlock: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.ScenarioExecutionStatus: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.StringExtensions: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Table+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.TableRow+<GetEnumerator>d__10: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.ITestRunnerManager: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.VersionInfo: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.UnitTestProvider.IUnitTestRuntimeProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.UnitTestProvider.UnitTestRuntimeProviderHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.CodeFormattingExtensions+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.IThreadSafeTraceListener: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.ITraceListener: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.ITraceListenerQueue: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.LanguageHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.IStepFormatter: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.StepFormatter: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.ITestTracer: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.TestTracer+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Tracing.TraceListenerQueue+TraceMessage: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Time.IClock: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.TestFramework.ITestRunContext: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.IRuntimePlugin: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.IRuntimePluginLoader: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.IRuntimePluginLocationMerger: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.IRuntimePluginLocator: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.ISpecFlowPath: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.PluginType: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.RuntimePluginLocationMerger+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Plugins.RuntimePluginLocator: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Compatibility.CultureInfoHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Compatibility.EnumHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Compatibility.TypeHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Compatibility.ExceptionHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Compatibility.MonoHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IContainerBuilder: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ContainerBuilder+<>c__DisplayClass5_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ContainerBuilder+<>c__DisplayClass6_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ContextManager+InternalContextManager`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ContextManager+StackedInternalContextManager`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ContextManagerExtensions: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IBindingAssemblyLoader: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IContainerDependentObject: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IContextManager: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IDefaultDependencyProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IObsoleteStepHandler: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ISkippedStepHandler: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ISpecFlowOutputHelper: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IStepErrorHandler: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ITestExecutionEngine: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ITestObjectResolver: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.ITestRunnerFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.StepDefinitionAmbiguityReason: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.IStepDefinitionMatchService: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.StepDefinitionMatchService+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.StepDefinitionMatchService+<>c__DisplayClass10_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.StepDefinitionMatchService+<>c__DisplayClass12_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.StepDefinitionMatchService+<>c__DisplayClass7_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.TestExecutionEngine+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.TestExecutionEngine+<>c__DisplayClass47_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.TestExecutionEngine+<>c__DisplayClass53_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Infrastructure.TestExecutionEngine+<>c__DisplayClass59_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.FileAccess.IBinaryFileAccessor: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.ErrorHandling.IErrorProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.ErrorHandling.ErrorProvider: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.EnvironmentAccess.IEnvironmentWrapper: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ICucumberMessageFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ICucumberMessageSender: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ICucumberMessageSink: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.IFieldValueProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.IPickleIdGenerator: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.IPickleIdStore: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.IPickleIdStoreDictionaryFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.IPlatformFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ISpecFlowVersionInformationProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ISystemInformationProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestAmbiguousMessageFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestErrorMessageFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestPendingMessageFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestResultFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestResultPartsFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestRunResultCollector: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestRunResultSuccessCalculator: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ITestUndefinedMessageFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ISinkProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.TestPendingMessageFactory+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.ULongExtensions: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.TestRunResultCollector+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.Sinks.IProtobufFileNameResolver: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CucumberMessages.Sinks.IProtobufFileSinkOutput: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.IConfigurationLoader: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.IRuntimeConfigurationProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.ISpecFlowConfigurationHolder: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.MissingOrPendingStepsOutcome: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.ObsoleteBehavior: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.ConfigSource: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.AppConfig.AppConfigConfigurationLoader+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.AppConfig.GeneratorConfigElement+TagCollection+<System-Collections-Generic-IEnumerable<TechTalk-SpecFlow-Configuration-AppConfig-GeneratorConfigElement-TagElement>-GetEnumerator>d__2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Configuration.AppConfig.PluginCollection+<System-Collections-Generic-IEnumerable<TechTalk-SpecFlow-Configuration-AppConfig-PluginConfigElement>-GetEnumerator>d__2: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CommonModels.IFailure: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CommonModels.IFailure`1: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CommonModels.IResult: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CommonModels.IResult`1: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CommonModels.ISuccess: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.CommonModels.ISuccess`1: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.AsyncHelpers+<>c__DisplayClass0_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.AsyncHelpers+<>c__DisplayClass1_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.AsyncHelpers+ExclusiveSynchronizationContext: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.AsyncHelpers+SetSynchronizationContext: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`10: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`11: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`12: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`13: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`14: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`15: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`16: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`17: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`18: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`19: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`20: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`5: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`6: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`7: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`8: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedAction`9: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`10: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`11: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`12: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`13: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`14: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`15: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`16: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`17: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`18: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`19: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`20: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`21: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`6: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`7: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`8: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingInvoker+ExtendedFunc`9: type is a delegate.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IBindingRegistry: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingRegistry+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingRegistry+<>c__DisplayClass8_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.ExpressionMemberAccessor: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.HookType: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IBindingFactory: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IBindingInvoker: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IHookBinding: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IScopedBinding: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IStepArgumentTransformationBinding: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IStepDefinitionBinding: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IBinding: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.RegexFactory: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IStepArgumentTypeConverter: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepArgumentTypeConverter+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepArgumentTypeConverter+<>c__DisplayClass5_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepArgumentTypeConverter+<>c__DisplayClass8_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepDefinitionKeyword: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.IStepDefinitionRegexCalculator: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepDefinitionRegexCalculator+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepDefinitionRegexCalculator+<>c__DisplayClass3_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepDefinitionRegexCalculator+<GetPrefixesToRemove>d__5: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepDefinitionRegexCalculator+ParamSearchResult: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.StepDefinitionType: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.BindingTypeHelper: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.ISynchronousBindingDelegateInvoker: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.SynchronousBindingDelegateInvoker+<>c__DisplayClass2_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.BindingReflectionExtensions+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.BindingReflectionExtensions+<>c__DisplayClass1_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.BindingReflectionExtensions+<>c__DisplayClass7_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.IBindingMethod: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.IBindingParameter: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.IBindingType: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.IPolymorphicBindingType: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Reflection.RuntimeBindingMethod+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor+<>c__DisplayClass20_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.BindingSourceProcessor+<>c__DisplayClass21_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.IBindingSourceAttributeValueProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.IBindingSourceProcessor: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.IRuntimeBindingRegistryBuilder: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.ISpecFlowAttributesFilter: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingRegistryBuilder+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.RuntimeBindingRegistryBuilder+<>c__DisplayClass9_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.IRuntimeBindingSourceProcessor: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Bindings.Discovery.SpecFlowAttributesFilter+<>c__DisplayClass1_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.FileBasedSkeletonTemplateProvider+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.ISkeletonTemplateProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.IStepDefinitionSkeletonProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.StepDefinitionSkeletonProvider+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.StepDefinitionSkeletonProvider+<>c__DisplayClass16_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.StepDefinitionSkeletonProvider+<>c__DisplayClass4_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.StepDefinitionSkeletonProvider+<>c__DisplayClass6_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.StepDefinitionSkeletonStyle: type is an enum.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.IStepTextAnalyzer: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.BindingSkeletons.StepTextAnalyzer+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.FindInSetExtensionMethods+<>c__DisplayClass0_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.FindInSetExtensionMethods+<>c__DisplayClass1_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.FindInSetExtensionMethods+<>c__DisplayClass2_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.FormattingTableDiffExceptionBuilder`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+<>c__6`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+<>c__DisplayClass14_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+<>c__DisplayClass5_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+<>c__DisplayClass6_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+<>c__DisplayClass8_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+Difference: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+PropertyDiffers: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.InstanceComparisonExtensionMethods+PropertyDoesNotExist: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.IValueComparer: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.IValueRetriever: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.PivotTable: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.PropertyExtensionMethods: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.RowExtensionMethods+<>c__13`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.RowExtensionMethods+<>c__DisplayClass13_0`1: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.RowExtensionMethods+<>c__DisplayClass21_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.SafetyTableDiffExceptionBuilder`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.SetComparer`1+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.SetComparer`1+<>c__DisplayClass12_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.SpecFlowDefaultValueRetrieverList: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ITableDiffExceptionBuilder`1: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.TableDiffExceptionBuilder`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.TEHelpers: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueHolder`1: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueHolder: type is not visible to exported or assembly(TechTalk.SpecFlow.Fakes).
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.EnumerableValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.EnumerableValueRetriever+<>c__DisplayClass2_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.EnumerableValueRetriever+<>c__DisplayClass5_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.ListValueRetriever+<>c__DisplayClass1_0: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableBoolValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableByteValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableCharValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableDateTimeOffsetValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableDateTimeValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableDecimalValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableDoubleValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableFloatValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableGuidValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableIntValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableLongValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableSByteValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableShortValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableTimeSpanValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableUIntValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableULongValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Assist.ValueRetrievers.NullableUShortValueRetriever+<>c: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.AnalyticsTransmitter+<TransmitEvent>d__5: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.AnalyticsTransmitter+<TransmitSpecFlowProjectCompilingEvent>d__3: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.AnalyticsTransmitter+<TransmitSpecFlowProjectRunningEvent>d__4: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.HttpClientAnalyticsTransmitterSink+<TransmitEvent>d__4: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.HttpClientAnalyticsTransmitterSink+<TransmitEventAsync>d__5: type is not supported because of internal limitations.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.IAnalyticsEvent: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.IAnalyticsEventProvider: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.IAnalyticsTransmitter: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.IAnalyticsTransmitterSink: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.IEnvironmentSpecFlowTelemetryChecker: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.UserId.IDirectoryService: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.UserId.IFileService: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.UserId.IUserUniqueIdStore: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for TechTalk.SpecFlow.Analytics.AppInsights.IAppInsightsEventSerializer: type is an interface.
+D:\goluch\BlogCode\TDD.DbTestHelpers\Fakes\TechTalk.SpecFlow.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>: type is not supported because of internal limitations.

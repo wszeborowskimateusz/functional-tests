@@ -1,0 +1,23 @@
+Posts:
+  test-post:
+    Id: 1
+    Author: test
+    Content: test, test, test...
+
+  test-post-2:
+    Id: 2
+    Author: test2
+    Content: test2, test2, test2...
+
+Comments:
+  comment-1:
+    PostId: 1
+    Content: ha ha ha
+
+  comment-2:
+    PostId: 1
+    Content: ha ha ha2
+
+  comment-3:
+    PostId: 2
+    Content: ha ha ha3
